@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saifullahtoqeer
-- 👀 I’m interested in Web Development and SEO
-- 🌱 I’m currently learning SEO
-- 💞️ I’m looking to collaborate on SEO Projects
+- 👀 I’m interested in Python, Machine Learning, Data Science and development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me? Just send an email on contact@saifullahtoqeer.com
 
 <!---
